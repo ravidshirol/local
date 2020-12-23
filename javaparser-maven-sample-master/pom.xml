@@ -34,12 +34,6 @@
     <version>3.3.1</version>
 </dependency>
 
-<groupId>...</groupId>
-  <artifactId>...</artifactId>
-  <version>...</version>
-  <packaging>...</packaging>
-
-
     </dependencies>
 
     <!-- This blob of configuration tells Maven to make the jar executable. You can run it with:
