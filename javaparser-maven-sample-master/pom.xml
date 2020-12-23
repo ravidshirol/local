@@ -34,6 +34,13 @@
     <version>3.3.1</version>
 </dependency>
 
+<dependency>
+<groupId>ravi</groupId>
+<artifactId>ravi</artifactId>
+<version>0.1</version>
+<packaging>war</packaging>
+</dependency>
+
     </dependencies>
 
     <!-- This blob of configuration tells Maven to make the jar executable. You can run it with:
